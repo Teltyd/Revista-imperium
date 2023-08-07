@@ -8,7 +8,7 @@ This repository contains the process and its explanation of a self-driven vehicl
 * `IMG-20230727-WA0030` This contains a picture of the whole team.
 * `Revista de Imperium` This contains the magazine of our team, Imperium 
 * `challenge_2.ino` This contains the code for our robot to be used in round 2 with the camera.
-* `NOMBRE ARCHIVO` This contains the ultrasonic sensor code for our robot.
+* `ultrasonico.ino` This contains the ultrasonic sensor code for our robot.
 
 ## Introduction
 
